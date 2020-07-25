@@ -1,6 +1,6 @@
 {
   "name": "@alex-sandri/pizza-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities to use in a pizza project",
   "main": "lib/index.js",
   "scripts": {
