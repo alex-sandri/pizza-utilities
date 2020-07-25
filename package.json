@@ -22,6 +22,17 @@
     "nodemon": "^2.0.4",
     "typescript": "^3.9.7"
   },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-sandri/pizza-utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-sandri/pizza-utilities/issues"
+  },
+  "homepage": "https://github.com/alex-sandri/pizza-utilities#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
