@@ -1,0 +1,11 @@
+{
+  "name": "@alex-sandri/pizza-utilities",
+  "version": "1.0.0",
+  "description": "Utilities to use in a pizza project",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Sandri",
+  "license": "MIT"
+}
