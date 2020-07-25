@@ -4,7 +4,11 @@
   "description": "Utilities to use in a pizza project",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon -e ts --watch src/ --exec npm run build",
+    "build": "tsc --build src",
+    "preversion": "npm run lint",
+    "postversion": "git push origin master --follow-tags && npm publish",
+    "lint": "eslint src/**/*.ts"
   },
   "author": "Alex Sandri",
   "license": "MIT",
