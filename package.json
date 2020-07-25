@@ -13,6 +13,8 @@
   "author": "Alex Sandri",
   "license": "MIT",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
     "eslint": "^7.5.0",
     "nodemon": "^2.0.4",
     "typescript": "^3.9.7"
