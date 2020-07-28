@@ -16,7 +16,7 @@
     "lib/**/*"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
     "@typescript-eslint/parser": "^3.7.1",
     "eslint": "^7.5.0",
     "nodemon": "^2.0.4",
